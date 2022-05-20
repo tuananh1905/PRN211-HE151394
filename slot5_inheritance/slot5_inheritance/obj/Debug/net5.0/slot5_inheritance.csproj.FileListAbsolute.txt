@@ -1,0 +1,16 @@
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\slot5_inheritance.exe
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\slot5_inheritance.deps.json
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\slot5_inheritance.runtimeconfig.json
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\slot5_inheritance.runtimeconfig.dev.json
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\slot5_inheritance.dll
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\ref\slot5_inheritance.dll
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\bin\Debug\net5.0\slot5_inheritance.pdb
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.csproj.AssemblyReference.cache
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.AssemblyInfo.cs
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.dll
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\ref\slot5_inheritance.dll
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.pdb
+E:\PRN211-HE151394\slot5_inheritance\slot5_inheritance\obj\Debug\net5.0\slot5_inheritance.genruntimeconfig.cache
