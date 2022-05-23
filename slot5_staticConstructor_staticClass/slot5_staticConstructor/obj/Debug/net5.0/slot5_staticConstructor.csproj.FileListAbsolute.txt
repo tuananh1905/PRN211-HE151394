@@ -1,0 +1,5 @@
+E:\PRN211-HE151394\slot5_staticConstructor\slot5_staticConstructor\obj\Debug\net5.0\slot5_staticConstructor.csproj.AssemblyReference.cache
+E:\PRN211-HE151394\slot5_staticConstructor\slot5_staticConstructor\obj\Debug\net5.0\slot5_staticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot5_staticConstructor\slot5_staticConstructor\obj\Debug\net5.0\slot5_staticConstructor.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot5_staticConstructor\slot5_staticConstructor\obj\Debug\net5.0\slot5_staticConstructor.AssemblyInfo.cs
+E:\PRN211-HE151394\slot5_staticConstructor\slot5_staticConstructor\obj\Debug\net5.0\slot5_staticConstructor.csproj.CoreCompileInputs.cache
