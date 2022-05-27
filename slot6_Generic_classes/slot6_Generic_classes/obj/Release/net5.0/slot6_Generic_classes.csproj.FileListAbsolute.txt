@@ -1,0 +1,15 @@
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\slot6_Generic_classes.exe
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\slot6_Generic_classes.deps.json
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\slot6_Generic_classes.runtimeconfig.json
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\slot6_Generic_classes.runtimeconfig.dev.json
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\slot6_Generic_classes.dll
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\ref\slot6_Generic_classes.dll
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\bin\Release\net5.0\slot6_Generic_classes.pdb
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.AssemblyInfo.cs
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.dll
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\ref\slot6_Generic_classes.dll
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.pdb
+E:\PRN211-HE151394\slot6_Generic_classes\slot6_Generic_classes\obj\Release\net5.0\slot6_Generic_classes.genruntimeconfig.cache

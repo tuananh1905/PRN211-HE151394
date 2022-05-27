@@ -1,0 +1,15 @@
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\slot6_Generic_methods.exe
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\slot6_Generic_methods.deps.json
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\slot6_Generic_methods.runtimeconfig.json
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\slot6_Generic_methods.runtimeconfig.dev.json
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\slot6_Generic_methods.dll
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\ref\slot6_Generic_methods.dll
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\bin\Release\net5.0\slot6_Generic_methods.pdb
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.AssemblyInfoInputs.cache
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.AssemblyInfo.cs
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.csproj.CoreCompileInputs.cache
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.dll
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\ref\slot6_Generic_methods.dll
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.pdb
+C:\Users\TuanAnh\source\repos\slot6_Generic_methods\slot6_Generic_methods\obj\Release\net5.0\slot6_Generic_methods.genruntimeconfig.cache

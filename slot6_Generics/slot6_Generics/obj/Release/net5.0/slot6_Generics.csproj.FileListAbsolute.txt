@@ -1,0 +1,15 @@
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\slot6_Generics.exe
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\slot6_Generics.deps.json
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\slot6_Generics.runtimeconfig.json
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\slot6_Generics.runtimeconfig.dev.json
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\slot6_Generics.dll
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\ref\slot6_Generics.dll
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\bin\Release\net5.0\slot6_Generics.pdb
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.AssemblyInfo.cs
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.dll
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\ref\slot6_Generics.dll
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.pdb
+E:\PRN211-HE151394\slot6_Generics\slot6_Generics\obj\Release\net5.0\slot6_Generics.genruntimeconfig.cache

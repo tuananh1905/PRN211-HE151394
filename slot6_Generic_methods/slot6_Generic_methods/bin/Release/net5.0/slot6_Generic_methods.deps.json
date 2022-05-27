@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "slot6_Generic_methods/1.0.0": {
+        "runtime": {
+          "slot6_Generic_methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slot6_Generic_methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
