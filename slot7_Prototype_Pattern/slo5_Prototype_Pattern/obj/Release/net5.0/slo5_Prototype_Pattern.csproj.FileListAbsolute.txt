@@ -1,0 +1,15 @@
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\slo5_Prototype_Pattern.exe
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\slo5_Prototype_Pattern.deps.json
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\slo5_Prototype_Pattern.runtimeconfig.json
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\slo5_Prototype_Pattern.runtimeconfig.dev.json
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\slo5_Prototype_Pattern.dll
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\ref\slo5_Prototype_Pattern.dll
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\bin\Release\net5.0\slo5_Prototype_Pattern.pdb
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.AssemblyInfo.cs
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.dll
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\ref\slo5_Prototype_Pattern.dll
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.pdb
+E:\PRN211-HE151394\slo5_Prototype_Pattern\slo5_Prototype_Pattern\obj\Release\net5.0\slo5_Prototype_Pattern.genruntimeconfig.cache

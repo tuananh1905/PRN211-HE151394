@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "slot7_Factories_Method/1.0.0": {
+        "runtime": {
+          "slot7_Factories_Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slot7_Factories_Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

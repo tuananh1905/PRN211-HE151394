@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "slo5_Prototype_Pattern/1.0.0": {
+        "runtime": {
+          "slo5_Prototype_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slo5_Prototype_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

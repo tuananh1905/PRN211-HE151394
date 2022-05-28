@@ -1,0 +1,15 @@
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.AssemblyInfo.cs
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\slot7_Singleton_Pattern.exe
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\slot7_Singleton_Pattern.deps.json
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\slot7_Singleton_Pattern.runtimeconfig.json
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\slot7_Singleton_Pattern.runtimeconfig.dev.json
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\slot7_Singleton_Pattern.dll
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\ref\slot7_Singleton_Pattern.dll
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\bin\Release\net5.0\slot7_Singleton_Pattern.pdb
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.dll
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\ref\slot7_Singleton_Pattern.dll
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.pdb
+E:\PRN211-HE151394\slot7_Singleton_Pattern\slot7_Singleton_Pattern\obj\Release\net5.0\slot7_Singleton_Pattern.genruntimeconfig.cache
