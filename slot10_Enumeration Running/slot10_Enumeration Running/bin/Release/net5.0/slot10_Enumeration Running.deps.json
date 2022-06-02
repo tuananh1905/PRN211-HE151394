@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "slot10_Enumeration Running/1.0.0": {
+        "runtime": {
+          "slot10_Enumeration Running.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slot10_Enumeration Running/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

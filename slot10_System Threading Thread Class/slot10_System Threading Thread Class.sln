@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slot10_System Threading Thread Class", "slot10_System Threading Thread Class\slot10_System Threading Thread Class.csproj", "{359E8649-B322-443B-83DB-163C49546E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359E8649-B322-443B-83DB-163C49546E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359E8649-B322-443B-83DB-163C49546E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359E8649-B322-443B-83DB-163C49546E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359E8649-B322-443B-83DB-163C49546E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A27AB0-DEBB-420E-AC05-69A1135F2176}
+	EndGlobalSection
+EndGlobal

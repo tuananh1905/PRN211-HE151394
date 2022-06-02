@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PRN211-HE151394\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj": {}
+    "E:\\PRN211-HE151394\\slot7_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj": {}
   },
   "projects": {
-    "E:\\PRN211-HE151394\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj": {
+    "E:\\PRN211-HE151394\\slot7_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRN211-HE151394\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj",
+        "projectUniqueName": "E:\\PRN211-HE151394\\slot7_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj",
         "projectName": "slo5_Prototype_Pattern",
-        "projectPath": "E:\\PRN211-HE151394\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj",
+        "projectPath": "E:\\PRN211-HE151394\\slot7_Prototype_Pattern\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern.csproj",
         "packagesPath": "C:\\Users\\TuanAnh\\.nuget\\packages\\",
-        "outputPath": "E:\\PRN211-HE151394\\slo5_Prototype_Pattern\\slo5_Prototype_Pattern\\obj\\",
+        "outputPath": "E:\\PRN211-HE151394\\slot7_Prototype_Pattern\\slo5_Prototype_Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
