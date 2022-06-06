@@ -1,0 +1,16 @@
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.exe
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.deps.json
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.runtimeconfig.json
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.runtimeconfig.dev.json
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.dll
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\ref\FileInfo Class Demonstration.dll
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\bin\Debug\net5.0\FileInfo Class Demonstration.pdb
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.csproj.AssemblyReference.cache
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.AssemblyInfo.cs
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.dll
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\ref\FileInfo Class Demonstration.dll
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.pdb
+E:\PRN211-HE151394\slot12\System.io\FileInfo Class Demonstration\obj\Debug\net5.0\FileInfo Class Demonstration.genruntimeconfig.cache
