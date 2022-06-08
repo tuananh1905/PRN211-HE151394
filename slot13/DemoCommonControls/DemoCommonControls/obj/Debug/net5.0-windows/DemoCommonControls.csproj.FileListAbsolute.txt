@@ -1,0 +1,7 @@
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.csproj.AssemblyReference.cache
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.frmEmployeeDetails.resources
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.csproj.GenerateResource.cache
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.AssemblyInfo.cs
+E:\PRN211-HE151394\slot13\DemoCommonControls\DemoCommonControls\obj\Debug\net5.0-windows\DemoCommonControls.csproj.CoreCompileInputs.cache
