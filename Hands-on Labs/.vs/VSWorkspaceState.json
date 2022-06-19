@@ -2,7 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\AutomobileSolution",
-    "\\AutomobileSolution\\AutomobileApp"
+    "\\AutomobileSolution\\AutomobileApp",
+    "\\AutomobileSolution\\AutomobileLibrary",
+    "\\AutomobileSolution\\AutomobileLibrary\\BussinessObject",
+    "\\AutomobileSolution\\AutomobileLibrary\\DataAccess",
+    "\\AutomobileSolution\\AutomobileLibrary\\obj",
+    "\\AutomobileSolution\\AutomobileLibrary\\Properties",
+    "\\AutomobileSolution\\AutomobileLibrary\\Repository"
   ],
   "SelectedNode": "\\AutomobileSolution\\AutomobileSolution.sln",
   "PreviewInSolutionExplorer": false

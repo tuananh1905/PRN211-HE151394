@@ -1,0 +1,12 @@
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\bin\Release\net5.0\AutomobileLibrary.deps.json
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\bin\Release\net5.0\AutomobileLibrary.dll
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\bin\Release\net5.0\ref\AutomobileLibrary.dll
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\bin\Release\net5.0\AutomobileLibrary.pdb
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.AssemblyInfo.cs
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.dll
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\ref\AutomobileLibrary.dll
+E:\PRN211-HE151394\Hands-on Labs\AutomobileSolution\AutomobileLibrary\obj\Release\net5.0\AutomobileLibrary.pdb
